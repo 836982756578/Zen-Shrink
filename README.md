@@ -1,3 +1,31 @@
+# 🖼️ Zen Shrink - Image Compressor & Format Converter
+
+**Developer:** [Serkan ŞENTÜRK](https://github.com/836982756578)  
+**Copyright:** © 2026 Serkan ŞENTÜRK. All Rights Reserved.  
+**License:** MIT  
+**Platform:** Windows 10 / 11 (64-bit & 32-bit Portable)  
+
+> Reduce image file sizes by 60% to 90% without visible quality loss. Batch resize, convert formats (PNG, JPG, WebP), and strip metadata.
+
+---
+
+## 🇬🇧 English Documentation
+
+### ✨ Key Features
+* 📉 **High Compression Ratio:** Compress images up to 90% smaller while preserving sharpness.
+* 🔄 **Format Conversion:** Convert between PNG, JPEG, WebP, BMP, and ICO.
+* 📏 **Batch Resizing:** Scale images by percentage or custom dimensions.
+* 🔒 **100% Offline & Private:** All processing happens locally on your CPU/GPU without uploading images.
+
+### 📥 Download & Usage
+1. Download the latest portable .exe from the [Releases](https://github.com/836982756578/Zen-Shrink/releases) section.
+2. Run directly — no installer or administrative privileges required.
+3. Enjoy an ultra-lightweight, native Windows experience!
+
+---
+
+## 🇹🇷 Türkçe Açıklama
+
 # ☯️ Zen Shrink
 
 **Taşınabilir, Ultra Hafif Görsel Sıkıştırıcı ve Format Dönüştürücü**  
